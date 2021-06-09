@@ -46,7 +46,7 @@ print(f"{fore.RED}{back.WHITE}{style.URL}Hello World!{style.RESET}")
 
 ## Documentation
 
-Documentation is coming soon
+Click [here](https://giogi06off.gitbook.io/pycolors-docs/) for the official documentation
 
 ## Contributing
 
